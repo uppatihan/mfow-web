@@ -1,0 +1,555 @@
+[
+	{
+		"code" : "TH-10",
+		"name" : "กรุงเทพมหานคร",
+		"name_en" : "Bangkok",
+		"dlt_code" : "00100",
+		"id" : 500
+	},
+	{
+		"code" : "TH-11",
+		"name" : "สมุทรปราการ",
+		"name_en" : "Samut Prakan",
+		"dlt_code" : "10000",
+		"id" : 501
+	},
+	{
+		"code" : "TH-12",
+		"name" : "นนทบุรี",
+		"name_en" : "Nonthaburi",
+		"dlt_code" : "10100",
+		"id" : 502
+	},
+	{
+		"code" : "TH-13",
+		"name" : "ปทุมธานี",
+		"name_en" : "Pathum Thani",
+		"dlt_code" : "10200",
+		"id" : 503
+	},
+	{
+		"code" : "TH-14",
+		"name" : "พระนครศรีอยุธยา",
+		"name_en" : "Phra Nakhon Si Ayutthaya",
+		"dlt_code" : "10300",
+		"id" : 504
+	},
+	{
+		"code" : "TH-15",
+		"name" : "อ่างทอง",
+		"name_en" : "Ang Thong",
+		"dlt_code" : "10400",
+		"id" : 505
+	},
+	{
+		"code" : "TH-16",
+		"name" : "ลพบุรี",
+		"name_en" : "Lop Buri",
+		"dlt_code" : "10500",
+		"id" : 506
+	},
+	{
+		"code" : "TH-17",
+		"name" : "สิงห์บุรี",
+		"name_en" : "Sing Buri",
+		"dlt_code" : "10600",
+		"id" : 507
+	},
+	{
+		"code" : "TH-18",
+		"name" : "ชัยนาท",
+		"name_en" : "Chai Nat",
+		"dlt_code" : "10700",
+		"id" : 508
+	},
+	{
+		"code" : "TH-19",
+		"name" : "สระบุรี",
+		"name_en" : "Saraburi",
+		"dlt_code" : "10800",
+		"id" : 509
+	},
+	{
+		"code" : "TH-20",
+		"name" : "ชลบุรี",
+		"name_en" : "Chon Buri",
+		"dlt_code" : "20000",
+		"id" : 510
+	},
+	{
+		"code" : "TH-21",
+		"name" : "ระยอง",
+		"name_en" : "Rayong",
+		"dlt_code" : "20100",
+		"id" : 511
+	},
+	{
+		"code" : "TH-22",
+		"name" : "จันทบุรี",
+		"name_en" : "Chanthaburi",
+		"dlt_code" : "20200",
+		"id" : 512
+	},
+	{
+		"code" : "TH-23",
+		"name" : "ตราด",
+		"name_en" : "Trat",
+		"dlt_code" : "20300",
+		"id" : 513
+	},
+	{
+		"code" : "TH-24",
+		"name" : "ฉะเชิงเทรา",
+		"name_en" : "Chachoengsao",
+		"dlt_code" : "20400",
+		"id" : 514
+	},
+	{
+		"code" : "TH-25",
+		"name" : "ปราจีนบุรี",
+		"name_en" : "Prachin Buri",
+		"dlt_code" : "20500",
+		"id" : 515
+	},
+	{
+		"code" : "TH-26",
+		"name" : "นครนายก",
+		"name_en" : "Nakhon Nayok",
+		"dlt_code" : "20600",
+		"id" : 516
+	},
+	{
+		"code" : "TH-27",
+		"name" : "สระแก้ว",
+		"name_en" : "Sa Kaeo",
+		"dlt_code" : "20700",
+		"id" : 517
+	},
+	{
+		"code" : "TH-30",
+		"name" : "นครราชสีมา",
+		"name_en" : "Nakhon Ratchasima",
+		"dlt_code" : "30000",
+		"id" : 518
+	},
+	{
+		"code" : "TH-31",
+		"name" : "บุรีรัมย์",
+		"name_en" : "Buri Ram",
+		"dlt_code" : "30100",
+		"id" : 519
+	},
+	{
+		"code" : "TH-32",
+		"name" : "สุรินทร์",
+		"name_en" : "Surin",
+		"dlt_code" : "30200",
+		"id" : 520
+	},
+	{
+		"code" : "TH-33",
+		"name" : "ศรีสะเกษ",
+		"name_en" : "Si Sa Ket",
+		"dlt_code" : "30300",
+		"id" : 521
+	},
+	{
+		"code" : "TH-34",
+		"name" : "อุบลราชธานี",
+		"name_en" : "Ubon Ratchathani",
+		"dlt_code" : "30400",
+		"id" : 522
+	},
+	{
+		"code" : "TH-35",
+		"name" : "ยโสธร",
+		"name_en" : "Yasothon",
+		"dlt_code" : "30500",
+		"id" : 523
+	},
+	{
+		"code" : "TH-36",
+		"name" : "ชัยภูมิ",
+		"name_en" : "Chaiyaphum",
+		"dlt_code" : "30600",
+		"id" : 524
+	},
+	{
+		"code" : "TH-37",
+		"name" : "อำนาจเจริญ",
+		"name_en" : "Amnat Charoen",
+		"dlt_code" : "30700",
+		"id" : 525
+	},
+	{
+		"code" : "TH-38",
+		"name" : "บึงกาฬ",
+		"name_en" : "Bueng Kan",
+		"dlt_code" : "30800",
+		"id" : 526
+	},
+	{
+		"code" : "TH-39",
+		"name" : "หนองบัวลำภู",
+		"name_en" : "Nong Bua Lam Phu",
+		"dlt_code" : "30900",
+		"id" : 527
+	},
+	{
+		"code" : "TH-40",
+		"name" : "ขอนแก่น",
+		"name_en" : "Khon Kaen",
+		"dlt_code" : "40000",
+		"id" : 528
+	},
+	{
+		"code" : "TH-41",
+		"name" : "อุดรธานี",
+		"name_en" : "Udon Thani",
+		"dlt_code" : "40100",
+		"id" : 529
+	},
+	{
+		"code" : "TH-42",
+		"name" : "เลย",
+		"name_en" : "Loei",
+		"dlt_code" : "40200",
+		"id" : 530
+	},
+	{
+		"code" : "TH-43",
+		"name" : "หนองคาย",
+		"name_en" : "Nong Khai",
+		"dlt_code" : "40300",
+		"id" : 531
+	},
+	{
+		"code" : "TH-44",
+		"name" : "มหาสารคาม",
+		"name_en" : "Maha Sarakham",
+		"dlt_code" : "40400",
+		"id" : 532
+	},
+	{
+		"code" : "TH-45",
+		"name" : "ร้อยเอ็ด",
+		"name_en" : "Roi Et",
+		"dlt_code" : "40500",
+		"id" : 533
+	},
+	{
+		"code" : "TH-46",
+		"name" : "กาฬสินธุ์",
+		"name_en" : "Kalasin",
+		"dlt_code" : "40600",
+		"id" : 534
+	},
+	{
+		"code" : "TH-47",
+		"name" : "สกลนคร",
+		"name_en" : "Sakon Nakhon",
+		"dlt_code" : "40700",
+		"id" : 535
+	},
+	{
+		"code" : "TH-48",
+		"name" : "นครพนม",
+		"name_en" : "Nakhon Phanom",
+		"dlt_code" : "40800",
+		"id" : 536
+	},
+	{
+		"code" : "TH-49",
+		"name" : "มุกดาหาร",
+		"name_en" : "Mukdahan",
+		"dlt_code" : "40900",
+		"id" : 537
+	},
+	{
+		"code" : "TH-50",
+		"name" : "เชียงใหม่",
+		"name_en" : "Chiang Mai",
+		"dlt_code" : "50000",
+		"id" : 538
+	},
+	{
+		"code" : "TH-51",
+		"name" : "ลำพูน",
+		"name_en" : "Lamphun",
+		"dlt_code" : "50100",
+		"id" : 539
+	},
+	{
+		"code" : "TH-52",
+		"name" : "ลำปาง",
+		"name_en" : "Lampang",
+		"dlt_code" : "50200",
+		"id" : 540
+	},
+	{
+		"code" : "TH-53",
+		"name" : "อุตรดิตถ์",
+		"name_en" : "Uttaradit",
+		"dlt_code" : "50300",
+		"id" : 541
+	},
+	{
+		"code" : "TH-54",
+		"name" : "แพร่",
+		"name_en" : "Phrae",
+		"dlt_code" : "50400",
+		"id" : 542
+	},
+	{
+		"code" : "TH-55",
+		"name" : "น่าน",
+		"name_en" : "Nan",
+		"dlt_code" : "50500",
+		"id" : 543
+	},
+	{
+		"code" : "TH-56",
+		"name" : "พะเยา",
+		"name_en" : "Phayao",
+		"dlt_code" : "50600",
+		"id" : 544
+	},
+	{
+		"code" : "TH-57",
+		"name" : "เชียงราย",
+		"name_en" : "Chiang Rai",
+		"dlt_code" : "50700",
+		"id" : 545
+	},
+	{
+		"code" : "TH-58",
+		"name" : "แม่ฮ่องสอน",
+		"name_en" : "Mae Hong Son",
+		"dlt_code" : "60000",
+		"id" : 546
+	},
+	{
+		"code" : "TH-60",
+		"name" : "นครสวรรค์",
+		"name_en" : "Nakhon Sawan",
+		"dlt_code" : "60100",
+		"id" : 547
+	},
+	{
+		"code" : "TH-61",
+		"name" : "อุทัยธานี",
+		"name_en" : "Uthai Thani",
+		"dlt_code" : "60200",
+		"id" : 548
+	},
+	{
+		"code" : "TH-62",
+		"name" : "กำแพงเพชร",
+		"name_en" : "Kamphaeng Phet",
+		"dlt_code" : "60300",
+		"id" : 549
+	},
+	{
+		"code" : "TH-63",
+		"name" : "ตาก",
+		"name_en" : "Tak",
+		"dlt_code" : "60400",
+		"id" : 550
+	},
+	{
+		"code" : "TH-64",
+		"name" : "สุโขทัย",
+		"name_en" : "Sukhothai",
+		"dlt_code" : "60500",
+		"id" : 551
+	},
+	{
+		"code" : "TH-65",
+		"name" : "พิษณุโลก",
+		"name_en" : "Phitsanulok",
+		"dlt_code" : "60600",
+		"id" : 552
+	},
+	{
+		"code" : "TH-66",
+		"name" : "พิจิตร",
+		"name_en" : "Phichit",
+		"dlt_code" : "60700",
+		"id" : 553
+	},
+	{
+		"code" : "TH-67",
+		"name" : "เพชรบูรณ์",
+		"name_en" : "Phetchabun",
+		"dlt_code" : "60703",
+		"id" : 554
+	},
+	{
+		"code" : "TH-70",
+		"name" : "ราชบุรี",
+		"name_en" : "Ratchaburi",
+		"dlt_code" : "60800",
+		"id" : 555
+	},
+	{
+		"code" : "TH-71",
+		"name" : "กาญจนบุรี",
+		"name_en" : "Kanchanaburi",
+		"dlt_code" : "70000",
+		"id" : 556
+	},
+	{
+		"code" : "TH-72",
+		"name" : "สุพรรณบุรี",
+		"name_en" : "Suphan Buri",
+		"dlt_code" : "70100",
+		"id" : 557
+	},
+	{
+		"code" : "TH-73",
+		"name" : "นครปฐม",
+		"name_en" : "Nakhon Pathom",
+		"dlt_code" : "70200",
+		"id" : 558
+	},
+	{
+		"code" : "TH-74",
+		"name" : "สมุทรสาคร",
+		"name_en" : "Samut Sakhon",
+		"dlt_code" : "70300",
+		"id" : 559
+	},
+	{
+		"code" : "TH-75",
+		"name" : "สมุทรสงคราม",
+		"name_en" : "Samut Songkhram",
+		"dlt_code" : "70400",
+		"id" : 560
+	},
+	{
+		"code" : "TH-76",
+		"name" : "เพชรบุรี",
+		"name_en" : "Phetchaburi",
+		"dlt_code" : "70500",
+		"id" : 561
+	},
+	{
+		"code" : "TH-77",
+		"name" : "ประจวบคีรีขันธ์",
+		"name_en" : "Prachuap Khiri Khan",
+		"dlt_code" : "70600",
+		"id" : 562
+	},
+	{
+		"code" : "TH-80",
+		"name" : "นครศรีธรรมราช",
+		"name_en" : "Nakhon Si Thammarat",
+		"dlt_code" : "70700",
+		"id" : 563
+	},
+	{
+		"code" : "TH-81",
+		"name" : "กระบี่",
+		"name_en" : "Krabi",
+		"dlt_code" : "80000",
+		"id" : 564
+	},
+	{
+		"code" : "TH-82",
+		"name" : "พังงา",
+		"name_en" : "Phangnga",
+		"dlt_code" : "80100",
+		"id" : 565
+	},
+	{
+		"code" : "TH-83",
+		"name" : "ภูเก็ต",
+		"name_en" : "Phuket",
+		"dlt_code" : "80200",
+		"id" : 566
+	},
+	{
+		"code" : "TH-84",
+		"name" : "สุราษฎร์ธานี",
+		"name_en" : "Surat Thani",
+		"dlt_code" : "80300",
+		"id" : 567
+	},
+	{
+		"code" : "TH-85",
+		"name" : "ระนอง",
+		"name_en" : "Ranong",
+		"dlt_code" : "80400",
+		"id" : 568
+	},
+	{
+		"code" : "TH-86",
+		"name" : "ชุมพร",
+		"name_en" : "Chumphon",
+		"dlt_code" : "80500",
+		"id" : 569
+	},
+	{
+		"code" : "TH-90",
+		"name" : "สงขลา",
+		"name_en" : "Songkhla",
+		"dlt_code" : "80600",
+		"id" : 570
+	},
+	{
+		"code" : "TH-91",
+		"name" : "สตูล",
+		"name_en" : "Satun",
+		"dlt_code" : "90000",
+		"id" : 571
+	},
+	{
+		"code" : "TH-92",
+		"name" : "ตรัง",
+		"name_en" : "Trang",
+		"dlt_code" : "90100",
+		"id" : 572
+	},
+	{
+		"code" : "TH-93",
+		"name" : "พัทลุง",
+		"name_en" : "Phatthalung",
+		"dlt_code" : "90200",
+		"id" : 573
+	},
+	{
+		"code" : "TH-94",
+		"name" : "ปัตตานี",
+		"name_en" : "Pattani",
+		"dlt_code" : "90300",
+		"id" : 574
+	},
+	{
+		"code" : "TH-95",
+		"name" : "ยะลา",
+		"name_en" : "Yala",
+		"dlt_code" : "90400",
+		"id" : 575
+	},
+	{
+		"code" : "TH-96",
+		"name" : "นราธิวาส",
+		"name_en" : "Narathiwat",
+		"dlt_code" : "90500",
+		"id" : 576
+	},
+	{
+		"code" : "TH-S",
+		"name" : "พัทยา",
+		"name_en" : "Pattaya",
+		"dlt_code" : "TH-S",
+		"id" : 577
+	},
+	{
+		"code" : "TH-BT",
+		"name" : "เบตง",
+		"name_en" : "Betong",
+		"dlt_code" : "00000",
+		"id" : 578
+	}
+]

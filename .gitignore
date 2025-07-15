@@ -1,0 +1,38 @@
+# ⛔ ไม่เอาไฟล์ environment
+.env
+.env.*
+frontend/src/config.js
+backend/temp/
+
+# ⛔ ไม่เอา dependencies ของ Node.js
+node_modules/
+
+# ⛔ ไม่เอา cache จาก React, Vite, etc.
+dist/
+build/
+
+# ⛔ Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ⛔ ไม่เอา virtualenv ของ Python
+venv/
+env/
+
+# ⛔ ไม่เอาไฟล์ของ Docker (ถ้ามี .env ใช้กับ docker-compose)
+docker-compose.override.yml
+
+# ⛔ ไม่เอา log, temp, etc.
+*.log
+*.tmp
+*.bak
+
+# ⛔ IDE/editor settings
+.vscode/
+.idea/
+*.sublime*
+
+# ✅ อย่า ignore ไฟล์สำคัญ เช่น Dockerfile, docker-compose.yml
+!Dockerfile
+!docker-compose.yml
