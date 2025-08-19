@@ -660,7 +660,7 @@ def search_images_register(car_id, customer_id):
     """
     params_img_customer = {}
     if id_customer:
-        query_img_customer += " AND ID = :id_customer"
+        query_img_customer += " AND CUSTOMER_INFO_ID = :id_customer"
         params_img_customer["id_customer"] = str(id_customer).strip()
 
     cursor.execute(query_img_customer, params_img_customer) 
